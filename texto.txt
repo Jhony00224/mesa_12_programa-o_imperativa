@@ -1,0 +1,11 @@
+O que são funções?
+No meio da programação, funções estão presentes a todo instante. Elas são pequenas tarefas que criamos, e podemos executar a qualquer momento no nosso código. Com elas é possível reutilizar o mesmo trecho de código diversas vezes, aumentando a eficiência do programa e diminuindo nosso tempo de codificação.
+
+Uma função é um bloco de código que nos permite realizar uma tarefa específica. Para que a função seja executada, "algo" deve invocá-la. É uma ferramenta muito útil porque estiliza o código e o torna mais escalonável. Assista ao vídeo a seguir para aprender um pouco mais sobre elas.
+
+
+
+Por que são úteis
+
+Como vimos no vídeo, as funções nos permitem salvar partes do código em pacotes que podemos reutilizar quantas vezes forem necessárias.
+Elas devem ser definidas inicialmente e, depois, invocadas para que possam ser executadas.
